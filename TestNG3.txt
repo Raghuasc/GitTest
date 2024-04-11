@@ -1,0 +1,15 @@
+import org.testng.annotations.Test;
+
+
+@Test
+public class Validate{
+
+	@Test
+	public void login()
+	{
+		System.out.print("Test 3");		
+
+		
+	}
+	
+}
