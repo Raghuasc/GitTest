@@ -7,7 +7,7 @@ public class Validate{
 	@Test
 	public void login()
 	{
-		System.out.print("Test 3");		
+		System.out.print("Test 4");		
 
 		
 	}
